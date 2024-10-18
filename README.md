@@ -1,2 +1,2 @@
 # auto_tests_course
-awd qwe zxc
+это учебный репозиторий для курса "Автоматизация тестирования с помощью Selenium и Python"
